@@ -1,0 +1,12 @@
+.menu-container {
+    padding: 1rem 2rem;
+}
+
+.menu-container a {
+    margin-right: 10px;
+    font-family: sans-serif;
+}
+
+.menu-container a p {
+    display: inline-block;
+}
